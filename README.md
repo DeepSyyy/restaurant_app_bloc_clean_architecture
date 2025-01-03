@@ -56,5 +56,3 @@ Retrofit is configured to work with Dio for making API calls. Here's how it's se
 - **lib/data/repository/restaurant_repository_impl.dart**: Repository implementation using Retrofit services.
 
 For more details on Retrofit usage, refer to the [Retrofit documentation](https://pub.dev/packages/retrofit)
-
-Falah ganteng
